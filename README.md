@@ -1,6 +1,6 @@
-<h1>Hi, I'm Katressa! <br/><a href="https://www.linkedin.com/in/katressacooper-cism/">Cybersecurity Professional</a>, <a href="https://github.com/katressa">Freelance Programmer</a>, <a href="https://www.youtube.com/c/katressacooper">YouTuber</a></h1>
+<h1>Hi, I'm Katressa! <br/><a href="https://www.linkedin.com/in/katressacooper-cism/">Cybersecurity Professional</a>, <a href="https://github.com/katressa">Freelance Programmer </a>, <a href="https://www.youtube.com/c/katressacooper">YouTuber</a></h1>
 
-<h2>👨‍💻 Certifications:</h2>
+<h2>📋 Certifications:</h2>
 
 - [CISM Certified Information Security Manager](https://www.credly.com/badges/adf0c5c7-640a-428e-95b1-073fe20271f9/public_url)
 - [Business Leadership McKinsey Academy](https://www.credly.com/badges/06eeabc1-a39b-4ed9-80d0-0edb6ff39bd1/public_url)
@@ -8,7 +8,7 @@
 - [Team Leadership McKinsey Academy](https://www.credly.com/badges/ec57e60d-40c7-489f-85d8-ce9ee5f8a754/public_url)
 - [Self Leadership McKinsey Academy](https://www.credly.com/badges/90843aa2-e788-4b06-9a96-aecf632a751d/public_url)
   
-<h2>👨‍💻 Cybersecurity Projects:</h2>
+<h2>🛡️ Cybersecurity Projects:</h2>
 
 - <b>Administering an RSA SecureID Platform</b>
   - [Deploying an (AM) Authentication Manager](https://github.com/)
