@@ -39,7 +39,7 @@
 - [Mentoring Jr. Cybersecurity Analyst](https://www.youtube.com/watch?v=)
 - [Ransomware Demonstration](https://www.youtube.com/watch?v=)
 
-<h2> 🤳 Let's Connect:</h2>
+<h2>🤳 Let's Connect:</h2>
 
 [<img align="left" alt="JoshMadakor | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
 [<img align="left" alt="JoshMadakor | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
