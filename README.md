@@ -1,5 +1,6 @@
 # Hello, I'm Katressa!
 <a href="https://linkedin.com/in/katressacooper-cism"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="https://github.com/katressa/katressa-portfolio/blob/main/Master%20Resume%20.pdf"><img src="https://img.shields.io/badge/-Resume-A020F0?&style=for-the-badge&logo=resume.io&logoColor=white" /></a>
 
 
 I am a longtime Cybersecurity Professional with a profound interest in technology and a leader that is dedicated to solving complex problems.
