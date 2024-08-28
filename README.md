@@ -17,14 +17,14 @@
   - [Image Analysis Middleware](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964) <b><i>(Potentially NSFW)</b></i>
 - <b>Tenable Agent deployment in AWS</b>
   - [Active Directory Bulk User Creation](https://github.com/katressa/ActiveDirectoryLab)
-  - [FIM (File Integrity Monitor)](https://github.com/joshmadakor1/PowerShell-Integrity-FIM)
+  - [FIM (File Integrity Monitor)](https://github.com/)
   
 <h2>👨‍💻 Software Development Projects:</h2>
 
 - <b>Full Stack Web App (React, NodeJS, Azure, and Machine Learning Components)</b>
   - [Image Analysis Middleware](https://github.com/) <b><i>(Potentially NSFW)</b></i>
 - <b>PowerShell</b>
-  - [Monitor ePO agents in IL6 with Windows EventLog](https://github.com/katressa/ePO/TrellixAgentLab)
+  - [Monitor ePO agents in IL6 with Windows EventLog](https://github.com/katressa/ePO-TrellixAgentLab)
   - [Active Directory Bulk User Creation](https://github.com/katressa/ActiveDirectoryLab)
 - <b>BASH</b>
   - [Splunk Services on RHEL Platform](https://github)
