@@ -24,7 +24,7 @@
 - <b>Full Stack Web App (React, NodeJS, Azure, and Machine Learning Components)</b>
   - [Image Analysis Middleware](https://github.com/) <b><i>(Potentially NSFW)</b></i>
 - <b>PowerShell</b>
-  - [Monitor ePO agents in IL6 with Windows EventLog: Failed RDP Logins Source IP to full GeoData Conversion](https://github.com/)
+  - [Monitor ePO agents in IL6 with Windows EventLog](https://github.com/)
   - [Active Directory Bulk User Creation](https://github.com/)
 - <b>BASH</b>
   - [Splunk Services on RHEL Platform](https://github)
